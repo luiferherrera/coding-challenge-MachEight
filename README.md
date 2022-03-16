@@ -4,7 +4,7 @@ This is the Solution to the The coding challenge for MachEight Entry Level
 
 The project was made in python using The Python Standard Library.
 
-To open the project run Main.py and use the console
+To open the project run Main.py and use the console.
 The Main_test.py file contains unit test made to the program using unittest
 
 ## Project
